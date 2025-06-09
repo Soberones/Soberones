@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### Projects📱
 
 - ClubJunkie
-[![Web](https://img.shields.io/badge/Club Junkie Website-414141)](https://clubjunkie.co) 
+[![Web](https://img.shields.io/badge/ClubJunkie-414141)](https://clubjunkie.co)
 - PINZ golf 
 [![Google play](https://img.shields.io/badge/Google_Play-414141)](https://play.google.com/store/apps/details?id=com.pinzgolf.pinz&hl=ru&gl=US) 
 [![App store](https://img.shields.io/badge/App_Store-0D96F6.svg)](https://apps.apple.com/us/app/pinz-golf/id1527608432)
